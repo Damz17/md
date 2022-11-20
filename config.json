@@ -1,13 +1,13 @@
 { 
-  "ChatOwner": "6281348106274@s.whatsapp.net",
-  "ownerNumber": "6281348106274@s.whatsapp.net",
-  "botName": "DaniBot",
-  "ownerName": "Dani Maker",
+  "ChatOwner": "6288975317165@s.whatsapp.net",
+  "ownerNumber": "6288975317165@s.whatsapp.net",
+  "botName": "A17-MD",
+  "ownerName": "anonymous",
   "sessionName": "session",
-  "footer": "© DaniBot 2022",
+  "footer": "©",
   "api_lolkey": "SadTeams",
   "group":{
   "judul": "Forum Bot WhatsApp",
-  "link": "https://chat.whatsapp.com/IzbGdPjnS1UFRnBGY0a3w6"
+  "link": "-"
   }
 }
