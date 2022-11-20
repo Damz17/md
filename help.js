@@ -6,7 +6,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ━━━
+━━━❲ A17-MD ━━━
 
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
  ID : @${sender.split('@')[0]}
@@ -178,22 +178,6 @@ return`
  ${no++} ➳ ${prefix}debase32
  ${no++} ➳ ${prefix}debase64
 
- 𝘽𝙐𝙂𝙑𝙄𝙋 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}sendbug 628xxx
- ${no++} ➳ ${prefix}philips 628xxx
- ${no++} ➳ ${prefix}philips2 628xxx
- ${no++} ➳ ${prefix}philips3 628xxx
- ${no++} ➳ ${prefix}santet @tag
- ${no++} ➳ ${prefix}santet2 @tag
- ${no++} ➳ ${prefix}santet3 @tag
- ${no++} ➳ ${prefix}virtex 628xxx
- ${no++} ➳ ${prefix}virtex2 628xxx
- ${no++} ➳ ${prefix}virtex3 628xxx
- ${no++} ➳ ${prefix}bug1 628xxx
- ${no++} ➳ ${prefix}bug2 628xxx
- ${no++} ➳ ${prefix}bug3 628xxx
- ${no++} ➳ ${prefix}bug4 628xxx
- ${no++} ➳ ${prefix}bug5 628xxx
  
  𝙍𝘼𝙉𝘿𝙊𝙈 𝘾𝙀𝙆 
  ${no++} ➳ ${prefix}cekjelek
@@ -726,11 +710,11 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081251549899
+Number: -
 A/N: __
 
 *Payment Dana*
-Number: 081251549899
+Number: -
 A/N: -_-
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -742,17 +726,16 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Dani
- • *Umur:* 16 tahun
+ • *Nama:* anonymous
+ • *Umur:* 99999tahun
  • *Hoby:* Turu/tiktok
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Askot:* JABAR PRIDE
+
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 081348106274
- • *Youtube:* DaniMaker
+ • *Whatsapp:* 088975317165
  • *Github:* -
  `
 }
